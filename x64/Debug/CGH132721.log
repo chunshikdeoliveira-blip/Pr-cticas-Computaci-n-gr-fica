@@ -1,0 +1,3 @@
+﻿  P01-320248153.cpp
+C:\Users\Darkking\Documents\PROYECTOS Compu\CGH132721\CGH132721\P01-320248153.cpp(102,24): warning C4267: '=': conversión de 'size_t' a 'GLint'; posible pérdida de datos
+  CGH132721.vcxproj -> C:\Users\Darkking\Documents\PROYECTOS Compu\CGH132721\x64\Debug\CGH132721.exe
