@@ -1,0 +1,18 @@
+﻿  Mesh.cpp
+  P01-320248153.cpp
+C:\Users\Darkking\Documents\PROYECTOS Compu\CGH132721\CGH132721\P01-320248153.cpp(102,24): warning C4267: '=': conversión de 'size_t' a 'GLint'; posible pérdida de datos
+  Shader.cpp
+C:\Users\Darkking\Documents\PROYECTOS Compu\CGH132721\CGH132721\Shader.cpp(121,24): warning C4267: '=': conversión de 'size_t' a 'GLint'; posible pérdida de datos
+  Window.cpp
+C:\Users\Darkking\Documents\PROYECTOS Compu\CGH132721\CGH132721\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\Darkking\Documents\PROYECTOS Compu\CGH132721\CGH132721\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+  Generando código
+  0 of 138 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  CGH132721.vcxproj -> C:\Users\Darkking\Documents\PROYECTOS Compu\CGH132721\x64\Release\CGH132721.exe
